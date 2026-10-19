@@ -1,1 +1,43 @@
+body{
+font-family:Tahoma,Arial;
+background:#f4f6f8;
+margin:0;
+padding:0;
+direction:rtl;
+}
 
+header{
+background:#00695c;
+color:white;
+padding:20px;
+text-align:center;
+}
+
+.container{
+width:90%;
+margin:auto;
+padding:20px;
+}
+
+.card{
+background:white;
+padding:15px;
+margin-bottom:15px;
+border-radius:10px;
+box-shadow:0 2px 5px rgba(0,0,0,.1);
+}
+
+.btn{
+background:#00695c;
+color:white;
+padding:10px 15px;
+border-radius:5px;
+text-decoration:none;
+display:inline-block;
+}
+
+input{
+width:100%;
+padding:10px;
+margin-bottom:10px;
+}
